@@ -9,8 +9,10 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta-yoshi02&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ta-yoshi02&show_icons=true)
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ta-yoshi02&show_icons=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-yoshi02&layout=compact&cache_seconds=86400" />
+</p>
 
 <!--START_SECTION:waka-->
 
