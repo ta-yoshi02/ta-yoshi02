@@ -17,11 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 0 secs
+Total Time: 1 hr 29 mins
 
-No activity tracked
+Markdown     48 mins         █████████████▒░░░░░░░░░░░   53.74 %
+YAML         38 mins         ███████████░░░░░░░░░░░░░░   43.49 %
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
