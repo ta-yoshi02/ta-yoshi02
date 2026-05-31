@@ -17,15 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2026 - To: 23 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-Total Time: 4 hrs 16 mins
+Total Time: 15 hrs 17 mins
 
-TeX          2 hrs 13 mins   █████████████░░░░░░░░░░░░   52.30 %
-C++          1 hr 26 mins    ████████▒░░░░░░░░░░░░░░░░   33.74 %
-Markdown     30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TeX        10 hrs 17 mins  ████████████████░░░░░░░░░   64.48 %
+Rust       2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+YAML       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Other      40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
