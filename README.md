@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 15 hrs 17 mins
+Total Time: 18 hrs 41 mins
 
-TeX        10 hrs 17 mins  ████████████████░░░░░░░░░   64.48 %
-Rust       2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-YAML       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Other      40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+TeX          15 hrs 33 mins  ████████████████████▒░░░░   80.73 %
+Rust         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Markdown     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
