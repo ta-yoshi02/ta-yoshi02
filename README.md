@@ -17,14 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2026 - To: 15 August 2026
+From: 15 August 2026 - To: 22 August 2026
 
-Total Time: 5 hrs 33 mins
+Total Time: 4 hrs 11 mins
 
-TeX        5 hrs 15 mins   ███████████████████████▓░   94.51 %
-Markdown   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-YAML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TeX            2 hrs 34 mins   ███████████████░░░░░░░░░░   60.12 %
+C++            37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Makefile       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Git Config     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Markdown       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Other          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
